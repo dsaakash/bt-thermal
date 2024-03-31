@@ -1,5 +1,8 @@
 # Bluetooth Thermal Printer
 
+
+Flutter Version : 3.19.4
+
 A new Flutter project.
 
 ## Getting Started
